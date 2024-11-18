@@ -1,0 +1,338 @@
+movieTitle;release;duration (mins);genre;uitgeleend_2020;beschikbaar;gereserveerd
+The Beach;2000;202;Thriller;24;2;Nee
+Grey Owl;2000;200;Drama;25;1;Ja
+Here on Earth;2000;71;Comedy;7;0;Nee
+Where the Heart Is;2000;132;Romantisch;36;0;Ja
+Big Momma's House;2000;128;Romantisch;0;2;Ja
+Titan A.E.;2000;99;Thriller;4;1;Ja
+Me, Myself & Irene;2000;159;Waargebeurd;20;2;Ja
+X-Men;2000;193;Waargebeurd;7;0;Ja
+What Lies Beneath;2000;123;SciFi;36;0;Nee
+Sunset Strip;2000;114;Rom-com;39;0;Nee
+Digimon: The Movie;2000;86;Thriller;7;2;Nee
+Bedazzled;2000;64;Waargebeurd;6;1;Ja
+The Legend of Bagger Vance;2000;123;Actie;25;0;Nee
+Men of Honor;2000;210;Actie;15;2;Ja
+Dude, Where's My Car?;2000;107;Actie;4;1;Ja
+Cast Away;2000;87;Rom-com;2;0;Ja
+Monkeybone;2001;115;Historisch;19;0;Nee
+Say It Isn't So;2001;103;Actie;8;0;Nee
+Someone Like You;2001;129;SciFi;33;0;Ja
+Freddy Got Fingered;2001;63;Comedy;14;1;Ja
+Moulin Rouge!;2001;192;Comedy;3;2;Nee
+Dr. Dolittle 2;2001;190;Rom-com;20;1;Nee
+Kiss of the Dragon;2001;168;SciFi;31;2;Ja
+Planet of the Apes;2001;137;Comedy;7;1;Ja
+Glitter;2001;174;Historisch;20;0;Ja
+Don't Say a Word;2001;202;Drama;21;2;Ja
+Joy Ride;2001;127;Romantisch;12;2;Ja
+From Hell;2001;99;Drama;31;2;Nee
+Shallow Hal;2001;156;Drama;12;0;Ja
+Black Knight;2001;154;Romantisch;2;0;Nee
+Behind Enemy Lines;2001;77;Drama;45;0;Ja
+Joe Somebody;2001;88;Actie;11;0;Ja
+Kung Pow: Enter the Fist;2002;87;Actie;21;2;Nee
+Ice Age;2002;61;Rom-com;26;0;Ja
+High Crimes;2002;109;Comedy;24;1;Nee
+Life or Something Like It;2002;66;Drama;1;1;Nee
+Unfaithful;2002;188;Thriller;24;1;Nee
+Star Wars: Episode II – Attack of the Clones;2002;65;Rom-com;39;0;Ja
+Minority Report;2002;112;Thriller;5;1;Ja
+The First $20 Million Is Always the Hardest;2002;186;Drama;19;0;Ja
+Like Mike;2002;120;Rom-com;5;0;Ja
+Road to Perdition;2002;214;Romantisch;26;0;Nee
+I Love You Baby;2002;189;SciFi;22;1;Ja
+Swimfan;2002;118;Thriller;12;2;Nee
+The Transporter;2002;91;Drama;21;0;Ja
+Solaris;2002;216;Rom-com;17;0;Ja
+Drumline;2002;126;Drama;5;2;Ja
+Just Married;2003;135;Romantisch;32;2;Nee
+Daredevil;2003;95;Waargebeurd;17;0;Ja
+Phone Booth;2003;160;Historisch;20;0;Ja
+Chasing Papi;2003;71;Rom-com;7;1;Nee
+X2;2003;129;Rom-com;32;0;Ja
+Down with Love;2003;68;Romantisch;36;2;Ja
+Wrong Turn;2003;110;Waargebeurd;37;1;Nee
+From Justin to Kelly;2003;99;SciFi;12;1;Nee
+The League of Extraordinary Gentlemen;2003;93;Actie;6;1;Nee
+The Order;2003;131;Romantisch;33;0;Ja
+Hangman's Curse;2003;104;Historisch;4;1;Ja
+Runaway Jury;2003;108;Drama;41;1;Ja
+Pinjar;2003;210;Waargebeurd;40;2;Ja
+Master and Commander: The Far Side of the World;2003;139;Thriller;9;2;Ja
+Magos y Gigantes;2003;190;SciFi;13;0;Ja
+Stuck on You;2003;127;Waargebeurd;44;2;Nee
+Cheaper by the Dozen;2003;187;Drama;23;2;Nee
+Catch that Kid;2004;217;Actie;27;0;Ja
+Welcome to Mooseport;2004;199;Waargebeurd;29;0;Ja
+The Passion of the Christ;2004;86;Romantisch;0;0;Nee
+The Girl Next Door;2004;64;Waargebeurd;24;2;Nee
+Man on Fire;2004;195;Thriller;13;2;Ja
+The Day After Tomorrow;2004;206;Rom-com;21;0;Nee
+Garfield: The Movie;2004;155;SciFi;13;1;Ja
+DodgeBall: A True Underdog Story;2004;72;SciFi;13;1;Nee
+I, Robot;2004;90;Thriller;4;0;Nee
+Alien vs. Predator;2004;185;Comedy;42;2;Nee
+Paparazzi;2004;108;Comedy;1;2;Nee
+First Daughter;2004;75;SciFi;30;2;Nee
+Taxi;2004;206;Historisch;7;0;Ja
+Flight of the Phoenix;2004;193;Rom-com;43;1;Nee
+Fat Albert;2004;181;Comedy;4;2;Nee
+Elektra;2005;173;Historisch;12;1;Nee
+Hide and Seek;2005;148;Comedy;11;1;Nee
+Because of Winn-Dixie;2005;150;Historisch;39;0;Nee
+Robots;2005;108;Comedy;33;1;Ja
+Guess Who;2005;184;Rom-com;43;2;Ja
+Fever Pitch;2005;150;SciFi;1;2;Nee
+Kingdom of Heaven;2005;194;Romantisch;45;2;Nee
+Star Wars: Episode III – Revenge of the Sith;2005;175;Comedy;22;1;Ja
+Mr. & Mrs. Smith;2005;199;Actie;39;2;Nee
+Rebound;2005;115;SciFi;26;2;Nee
+Fantastic Four;2005;67;Drama;0;1;Nee
+Supercross;2005;77;Comedy;3;2;Nee
+Transporter 2;2005;65;Romantisch;26;2;Ja
+Little Manhattan;2005;162;Romantisch;37;0;Ja
+In Her Shoes;2005;154;Waargebeurd;0;0;Nee
+Stay;2005;190;Thriller;3;0;Ja
+Walk the Line;2005;128;Waargebeurd;45;2;Ja
+In the Mix;2005;90;Thriller;25;0;Nee
+The Family Stone;2005;155;Actie;32;1;Ja
+Cheaper by the Dozen 2;2005;180;Romantisch;11;2;Ja
+Grandma's Boy;2006;111;Historisch;0;1;Ja
+Tristan & Isolde;2006;214;Drama;4;2;Nee
+Big Momma's House 2;2006;144;Rom-com;40;0;Nee
+Date Movie;2006;113;Thriller;9;2;Nee
+Aquamarine;2006;107;SciFi;17;0;Ja
+Ice Age: The Meltdown;2006;65;SciFi;25;1;Ja
+The Sentinel;2006;129;Drama;19;2;Ja
+Just My Luck;2006;142;Thriller;37;0;Nee
+X-Men: The Last Stand;2006;207;Comedy;42;2;Ja
+The Omen;2006;114;Actie;29;1;Nee
+Garfield: A Tail of Two Kitties;2006;166;Historisch;8;2;Nee
+The Devil Wears Prada;2006;198;Waargebeurd;17;1;Nee
+My Super Ex-Girlfriend;2006;202;Drama;15;2;Ja
+John Tucker Must Die;2006;159;Comedy;18;0;Nee
+AlatristeSeptember 15, 2006;2006;87;Drama;35;0;Nee
+Bandidas;2006;127;Waargebeurd;18;0;Ja
+The Marine;2006;206;Historisch;13;1;Nee
+Flicka;2006;138;SciFi;22;1;Nee
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;2006;176;Rom-com;2;0;Ja
+A Good Year;2006;207;Thriller;17;1;Nee
+Deck the Halls;2006;171;Drama;29;2;Ja
+The Fountain;2006;68;Rom-com;2;0;Ja
+Apocalypto;2006;76;Comedy;32;0;Nee
+Eragon;2006;93;Drama;36;0;Nee
+Night at the Museum;2006;184;Rom-com;34;0;Ja
+Epic Movie;2007;71;Waargebeurd;9;1;Ja
+Reno 911!: Miami;2007;97;Waargebeurd;5;1;Nee
+Firehouse Dog;2007;219;Romantisch;39;1;Nee
+Pathfinder;2007;93;Thriller;4;2;Ja
+28 Weeks Later;2007;121;Romantisch;6;0;Nee
+Fantastic Four: Rise of the Silver Surfer;2007;185;Historisch;20;2;Nee
+Live Free or Die Hard;2007;167;Historisch;14;1;Nee
+The Simpsons Movie;2007;219;Actie;40;0;Nee
+Death Sentence;2007;78;Thriller;36;2;Nee
+The Seeker: The Dark is Rising;2007;129;SciFi;3;2;Nee
+Mr. Magorium's Wonder Emporium;2007;85;Waargebeurd;20;0;Nee
+Hitman;2007;194;Comedy;27;0;Nee
+Alvin and the Chipmunks;2007;207;Actie;40;0;Ja
+Aliens vs. Predator: Requiem;2007;157;Comedy;25;2;Nee
+27 Dresses;2008;144;Comedy;12;1;Ja
+Meet the Spartans;2008;213;Drama;8;0;Nee
+Jumper;2008;153;SciFi;9;2;Nee
+Dr. Seuss' Horton Hears a Who!;2008;142;Comedy;7;0;Ja
+Shutter;2008;189;Waargebeurd;6;1;Ja
+Nim's Island;2008;66;Drama;6;1;Ja
+Deception;2008;172;Waargebeurd;14;2;Nee
+What Happens in Vegas;2008;214;Romantisch;34;1;Ja
+The Happening;2008;128;Thriller;17;1;Nee
+Meet Dave;2008;80;Historisch;20;1;Ja
+Space Chimps;2008;151;Rom-com;45;2;Ja
+The X-Files: I Want to Believe;2008;96;Comedy;41;1;Ja
+Mirrors;2008;162;Comedy;6;2;Nee
+The Rocker;2008;185;Rom-com;18;0;Ja
+Babylon A.D.;2008;72;Waargebeurd;21;2;Ja
+Krabat;2008;193;Actie;30;1;Nee
+Europa Clip;2008;76;Thriller;8;2;Ja
+City of Ember;2008;168;Historisch;27;1;Ja
+Max Payne;2008;182;Drama;38;0;Nee
+The Haunting of Molly Hartley;2008;61;Thriller;8;2;Nee
+Australia;2008;198;Comedy;12;0;Nee
+The Day the Earth Stood Still;2008;157;Historisch;15;0;Nee
+Marley & Me;2008;180;Rom-com;42;0;Ja
+Bride Wars;2009;144;Historisch;20;2;Ja
+The Happy Cricket and the Giant Bugs;2009;78;SciFi;14;0;Nee
+Taken;2009;111;Historisch;18;2;Nee
+Street Fighter: The Legend of Chun-Li;2009;175;Thriller;39;2;Ja
+12 Rounds;2009;196;Drama;17;2;Nee
+John Rabe;2009;187;Rom-com;24;0;Ja
+Dragonball Evolution;2009;71;Actie;43;2;Nee
+X-Men Origins: Wolverine;2009;191;Drama;9;0;Nee
+Night at the Museum: Battle of the Smithsonian;2009;184;Comedy;12;0;Nee
+Ice Age: Dawn of the Dinosaurs;2009;195;Drama;0;0;Ja
+I Love You, Beth Cooper;2009;80;SciFi;23;0;Nee
+Aliens in the Attic;2009;73;Comedy;11;1;Ja
+Post Grad;2009;134;Romantisch;1;1;Ja
+All About Steve;2009;73;Thriller;21;0;Ja
+Jennifer's Body;2009;201;Drama;16;1;Ja
+Fantastic Mr. Fox;2009;201;Comedy;26;0;Ja
+Avatar;2009;132;Rom-com;13;1;Ja
+Alvin and the Chipmunks: The Squeakquel;2009;137;Rom-com;28;0;Ja
+Fantastic Mr. Fox;2009;83;SciFi;16;1;Nee
+Avatar;2010;167;Actie;43;2;Nee
+Alvin and the Chipmunks: The Squeakquel;2010;82;Waargebeurd;3;2;Nee
+Tooth Fairy;2010;111;Rom-com;0;2;Ja
+Percy Jackson & the Olympians: The Lightning Thief;2010;200;Rom-com;7;1;Ja
+Diary of a Wimpy Kid;2010;217;SciFi;6;1;Ja
+Date Night;2010;157;SciFi;29;2;Nee
+Marmaduke;2010;69;Romantisch;37;2;Ja
+The A-Team;2010;161;Waargebeurd;28;1;Ja
+Knight and Day;2010;154;Drama;27;2;Ja
+Predators;2010;93;Historisch;37;2;Nee
+Ramona and Beezus;2010;186;Romantisch;42;0;Ja
+Vampires Suck;2010;105;Rom-com;42;2;Ja
+Machete;2010;144;Thriller;18;1;Ja
+Wall Street: Money Never Sleeps;2010;208;Drama;29;1;Nee
+Unstoppable;2010;94;SciFi;7;0;Nee
+Love & Other Drugs;2010;61;Thriller;17;2;Nee
+The Chronicles of Narnia: The Voyage of the Dawn Treader;2010;161;Actie;17;0;Ja
+Gulliver's Travels;2010;63;Romantisch;29;2;Nee
+Big Mommas: Like Father Like Son;2011;197;Historisch;28;2;Ja
+Diary of a Wimpy Kid: Rodrick Rules;2011;94;SciFi;38;1;Ja
+Rio;2011;138;Romantisch;3;0;Nee
+Water for Elephants;2011;79;Drama;34;1;Ja
+X-Men: First Class;2011;70;SciFi;35;0;Nee
+Mr. Popper's Penguins;2011;71;Historisch;14;1;Nee
+Monte Carlo;2011;190;Romantisch;1;2;Ja
+Rise of the Planet of the Apes;2011;71;Comedy;22;1;Nee
+Glee: The 3D Concert Movie;2011;198;Actie;39;1;Nee
+What's Your Number?;2011;71;Comedy;7;2;Nee
+The Big Year;2011;127;Comedy;39;1;Ja
+In Time;2011;67;Drama;20;0;Nee
+The Sitter;2011;197;Comedy;41;0;Ja
+Alvin and the Chipmunks: Chipwrecked;2011;84;Historisch;29;0;Nee
+We Bought a Zoo;2011;187;Comedy;24;1;Ja
+The Darkest Hour;2011;84;Thriller;27;0;Ja
+Red Tails;2012;220;Waargebeurd;38;2;Ja
+Chronicle;2012;191;Historisch;0;2;Ja
+This Means War;2012;202;Thriller;12;0;Nee
+The Three Stooges;2012;212;Actie;38;1;Nee
+Prometheus;2012;151;Rom-com;40;0;Nee
+Abraham Lincoln: Vampire Hunter;2012;204;Historisch;20;0;Ja
+Ice Age: Continental Drift;2012;219;Drama;14;2;Ja
+The Watch;2012;126;Waargebeurd;34;0;Nee
+Diary of a Wimpy Kid: Dog Days;2012;123;SciFi;1;1;Ja
+Won't Back Down;2012;170;Thriller;10;0;Ja
+Taken 2;2012;171;Waargebeurd;13;2;Nee
+Chasing Mavericks;2012;96;Drama;17;0;Ja
+Lincoln;2012;208;Thriller;14;2;Nee
+Life of Pi;2012;88;Comedy;38;0;Ja
+Parental Guidance;2012;203;Actie;10;1;Ja
+Broken City;2013;176;Historisch;12;0;Ja
+A Good Day to Die Hard;2013;62;Romantisch;37;0;Ja
+Cheech and Chong's Animated Movie;2013;134;Comedy;11;1;Ja
+The Croods;2013;180;Waargebeurd;43;2;Ja
+Epic;2013;121;Actie;24;2;Nee
+The Internship;2013;171;Thriller;0;2;Nee
+The Heat;2013;159;Romantisch;38;2;Nee
+Turbo;2013;80;Actie;35;0;Ja
+The Wolverine;2013;197;Historisch;16;1;Ja
+Percy Jackson: Sea of Monsters;2013;85;Comedy;33;0;Ja
+Runner Runner;2013;161;Actie;8;0;Ja
+The Counselor;2013;183;Rom-com;4;2;Nee
+The Book Thief;2013;84;Rom-com;6;1;Ja
+Walking with Dinosaurs;2013;136;SciFi;8;2;Nee
+The Secret Life of Walter Mitty;2013;136;Comedy;22;1;Ja
+Devil's Due;2014;86;Comedy;31;0;Nee
+The Monuments Men;2014;219;Comedy;25;0;Ja
+Son of God;2014;164;Historisch;4;1;Nee
+Mr. Peabody & Sherman;2014;156;Rom-com;23;2;Ja
+Rio 2;2014;200;Historisch;38;2;Ja
+The Other Woman;2014;169;Thriller;28;0;Ja
+X-Men: Days of Future Past;2014;112;Drama;13;2;Ja
+The Fault in Our Stars;2014;199;Comedy;16;1;Ja
+How to Train Your Dragon 2;2014;185;Rom-com;24;2;Ja
+Dawn of the Planet of the Apes;2014;99;Comedy;5;0;Ja
+Dragon Ball Z: Battle of Gods;2014;151;Comedy;21;0;Ja
+Let's Be Cops;2014;195;SciFi;13;2;Ja
+The Maze Runner;2014;108;SciFi;23;1;Nee
+Gone Girl;2014;61;Thriller;37;0;Nee
+The Book of Life;2014;119;Rom-com;32;1;Ja
+Penguins of Madagascar;2014;124;Historisch;32;2;Ja
+The Pyramid;2014;182;Drama;23;0;Ja
+Exodus: Gods and Kings;2014;216;Waargebeurd;45;1;Nee
+Night at the Museum: Secret of the Tomb;2014;152;Drama;31;1;Ja
+Taken 3;2015;206;Comedy;43;1;Ja
+Kingsman: The Secret Service;2015;161;Romantisch;35;2;Ja
+Unfinished Business;2015;113;SciFi;14;0;Nee
+Home;2015;93;SciFi;3;0;Nee
+The Longest Ride;2015;154;Drama;15;0;Ja
+Poltergeist;2015;98;Drama;18;0;Nee
+Aloha;2015;171;Comedy;6;2;Nee
+Spy;2015;184;SciFi;25;0;Nee
+Paper Towns;2015;146;Drama;33;2;Ja
+Dragon Ball Z: Resurrection 'F';2015;72;Drama;1;2;Ja
+Fantastic Four;2015;150;SciFi;20;2;Ja
+Hitman: Agent 47;2015;214;SciFi;28;2;Ja
+Maze Runner: The Scorch Trials;2015;177;Rom-com;43;1;Ja
+The Martian;2015;218;Thriller;19;1;Ja
+Bridge of Spies;2015;152;Historisch;11;1;Ja
+The Peanuts Movie;2015;86;Comedy;36;0;Ja
+Victor Frankenstein;2015;71;Romantisch;44;2;Nee
+Alvin and the Chipmunks: The Road Chip;2015;134;Romantisch;15;2;Ja
+Joy;2015;85;SciFi;2;0;Ja
+Kung Fu Panda 3;2016;77;Rom-com;43;2;Nee
+Deadpool;2016;63;Comedy;26;1;Ja
+Eddie the Eagle;2016;194;SciFi;34;1;Ja
+The Other Side of the Door;2016;84;Romantisch;8;0;Nee
+Florence Foster Jenkins;2016;151;Waargebeurd;7;2;Ja
+X-Men: Apocalypse;2016;167;Historisch;39;0;Nee
+Independence Day: Resurgence;2016;124;Thriller;42;1;Ja
+Mike and Dave Need Wedding Dates;2016;201;Historisch;33;0;Nee
+Ice Age: Collision Course;2016;127;Romantisch;20;2;Ja
+Morgan;2016;116;Drama;11;1;Ja
+Miss Peregrine's Home for Peculiar Children;2016;209;Thriller;43;1;Ja
+Keeping Up with the Joneses;2016;149;Thriller;10;0;Nee
+Trolls;2016;132;Thriller;26;2;Ja
+Rules Don't Apply;2016;214;Comedy;26;1;Ja
+Assassin's Creed;2016;180;Romantisch;41;2;Ja
+Why Him?;2016;84;Drama;10;1;Ja
+Hidden Figures;2016;144;Waargebeurd;20;2;Ja
+A Cure for Wellness;2017;120;Thriller;28;1;Nee
+Logan;2017;169;Historisch;45;1;Ja
+The Boss Baby;2017;127;Thriller;22;1;Nee
+Snatched;2017;215;Waargebeurd;38;1;Ja
+Diary of a Wimpy Kid: The Long Haul;2017;210;SciFi;5;1;Ja
+Captain Underpants: The First Epic Movie;2017;163;Thriller;26;2;Ja
+War for the Planet of the Apes;2017;156;Comedy;33;2;Nee
+Kingsman: The Golden Circle;2017;187;Drama;28;0;Nee
+The Mountain Between Us;2017;134;Romantisch;43;1;Ja
+Murder on the Orient Express;2017;113;Drama;9;1;Ja
+Ferdinand;2017;167;SciFi;12;2;Nee
+The Greatest Showman;2017;211;Waargebeurd;34;0;Nee
+The Post;2017;135;Comedy;29;0;Nee
+Condorito: The Movie;2018;82;Thriller;4;1;Nee
+Maze Runner: The Death Cure;2018;104;Comedy;43;2;Nee
+Red Sparrow;2018;131;Thriller;42;1;Ja
+Love, Simon;2018;76;Comedy;37;2;Nee
+Deadpool 2;2018;163;SciFi;22;2;Ja
+The Darkest Minds;2018;62;Historisch;2;1;Ja
+The Predator;2018;149;Waargebeurd;0;0;Ja
+The Old Man & the Gun;2018;79;Drama;39;1;Ja
+Bad Times at the El Royale;2018;157;Actie;15;2;Nee
+The Hate U Give;2018;208;SciFi;19;2;Ja
+Bohemian Rhapsody;2018;135;Drama;38;0;Nee
+Widows;2018;107;Historisch;11;2;Ja
+Once Upon A Deadpool;2018;160;Actie;8;2;Nee
+Dragon Ball Super: Broly;2019;193;Comedy;22;0;Ja
+The Kid Who Would Be King;2019;176;Comedy;30;0;Ja
+Alita: Battle Angel;2019;142;Rom-com;45;1;Ja
+Breakthrough;2019;125;Rom-com;25;1;Nee
+Dark Phoenix;2019;206;Drama;14;1;Nee
+Stuber;2019;203;Thriller;5;0;Ja
+The Art of Racing in the Rain;2019;177;Romantisch;41;2;Ja
+Ad Astra;2019;96;Thriller;2;2;Ja
+Judy;2019;189;Actie;42;2;Ja
+Terminator: Dark Fate;2019;210;Waargebeurd;25;1;Nee
+Ford v Ferrari;2019;114;Thriller;15;2;Ja
+Spies in Disguise;2019;69;Romantisch;16;0;Ja
